@@ -17,3 +17,9 @@ Here are some ideas to get you started:
 
 ![Tellgreenpo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tellgreenpo&count_private=true&show_icons=true&theme=gruvbox&locale=cn)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tellgreenpo&hide=html&layout=compact)
+<a href="https://github.com/tellgreenpo/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tellgreenpo&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/tellgreenpo/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tellgreenpo&repo=convoychat" />
+</a>
