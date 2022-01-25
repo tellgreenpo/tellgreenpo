@@ -20,5 +20,5 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tellgreenpo&count_private=true&show_icons=true&theme=gruvbox&locale=cn" />
 </a>
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tellgreenpo&hide=html&layout=compact&langs_count=6&card_width=50" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tellgreenpo&hide=html&layout=compact&langs_count=6&card_width=150" />
 </a>
