@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![Tellgreenpo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tellgreenpo&count_private=true&show_icons=true&theme=gruvbox&locale=cn)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tellgreenpo&hide=html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tellgreenpo&hide=html&layout=compact)
